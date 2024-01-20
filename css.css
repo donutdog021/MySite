@@ -9,6 +9,10 @@ html {
     background-repeat: no-repeat;
 }
 
+html, body {
+    margin: 0px;
+}
+
 body {
     height: 89%;
 }
@@ -23,7 +27,6 @@ strong, h3 {
     text-align: center;
     width: 100%;
     background-color: black;
-    border-radius: 10px;
     position: absolute;
     margin-top: 0;
 }
